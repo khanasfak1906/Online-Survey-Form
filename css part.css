@@ -1,0 +1,57 @@
+*{
+    font-family: cursive;
+}
+
+h1{
+    font-family: algerian;
+    text-align: center;
+    background-color: black;
+    color: white;
+    padding: 20px;
+}
+
+header{
+    background-color: black;
+    padding: 5px;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+    display: inline;
+    margin: 100px;
+    
+}
+
+li a{
+    color: white;
+    text-decoration:none;
+}
+
+li a:hover{
+    color: red;
+}
+
+p{
+    margin-left: 20px;
+}
+
+input[type=submit] {
+    font-family: cursive;
+    width: 30%;
+    background-color: dodgerblue;
+    color: floralwhite;
+    padding: 12px 20px ;
+    margin: 8px 0;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+body{
+    background-color:tan;
+}
+
+
